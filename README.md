@@ -1,6 +1,6 @@
 
-# AZER - Your digital mancave 
-![Orange and Black 3D Maximalist Technology Instagram Story](https://github.com/JumanahKhalid/AZER/assets/110771258/4557f6a4-52a6-411c-80a0-f2fd8ffaedbe)
+# A![Group 2287](https://github.com/JumanahKhalid/AZER/assets/110771258/92d1b191-3d30-43e5-baf4-969e2d24b324)
+ZER - Your digital mancave 
 
 ## About
 AZER is an iOS application designed to enhance individuals' quality of life by uplifting their mood through engaging challenges. The app focuses on self-improvement, fostering a positive mindset, and connecting users through challenges and progress tracking.
@@ -61,4 +61,7 @@ AZER is an iOS application designed to enhance individuals' quality of life by u
 For any questions, feedback, or support, feel free to contact our team. We appreciate your suggestions and are dedicated to enhancing your experience.
 
 We hope AZER enriches your life and helps you achieve a positive mindset!
+![Orange and Black 3D Maximalist Technology Instagram Story-3](https://github.com/JumanahKhalid/AZER/assets/110771258/87bd8930-c972-417a-8e45-7f0582b1cbab)
+
+
 
