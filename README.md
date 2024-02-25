@@ -1,6 +1,6 @@
+![output-onlinepngtools](https://github.com/JumanahKhalid/AZER/assets/110771258/f54b7ee8-c941-4ec2-8c53-5a94a4d09884)
 
-# A![Group 2287](https://github.com/JumanahKhalid/AZER/assets/110771258/92d1b191-3d30-43e5-baf4-969e2d24b324)
-ZER - Your digital mancave 
+# AZER - Your digital mancave 
 
 ## About
 AZER is an iOS application designed to enhance individuals' quality of life by uplifting their mood through engaging challenges. The app focuses on self-improvement, fostering a positive mindset, and connecting users through challenges and progress tracking.
